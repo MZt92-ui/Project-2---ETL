@@ -2,10 +2,9 @@
 Monash DA Bootcamp
 
 The topic of our group is AU Tourism.
-So we are exporing relevant data and create the database.
 
-Please see below for different information of files:
-1. Report: 
-2. Jupyter Notebook
-3. Schema sql
-4. ERD Diagram
+Please see below for information included in different files:
+1. Report: summary information of the project, data and databases created
+2. Jupyter Notebook: include the detailed transforming and loading processes
+3. Schema sql: sql used to create tables in database
+4. ERD Diagram: show the structure of database
