@@ -1,10 +1,12 @@
 # Project-2---ETL
 Monash DA Bootcamp
+Group 2 - Maozhu Tang, James Le, Steven Bouios
 
-The topic of our group is AU Tourism.
+Topic = Australian Tourism.
+We decided on Australian Tourism because we all miss travelling!
+The objective of our project was to identify data that we could use to extract relevant information and  transform it into datasets that could be analysed professionally.
 
-Please see below for information included in different files:
-1. Report: summary information of the project, data and databases created
-2. Jupyter Notebook: include the detailed transforming and loading processes
-3. Schema sql: sql used to create tables in database
-4. ERD Diagram: show the structure of database
+We have put all our resources and necessary files in folders and have included our final report and findings.
+-Database
+-Notebook
+-Resources
